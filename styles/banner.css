@@ -1,0 +1,36 @@
+.banner-container {
+    display: flex;
+    flex-direction: column;
+    font-family: var(--fonte-principal);
+    align-items: center;
+    text-align: center;
+    margin: 8em;
+    padding: 3em;
+}
+
+.banner-container__subtitulo {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    background-color: var(--rosa);
+    padding: 0.5em;
+    border-radius: 2em;
+}
+
+.banner-container__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--preto);
+    padding: 0.5em;
+}
+
+.banner-container__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-medio);
+    padding: 0.5em;
+}
+
+.imagem-banner {
+    padding: 4em;
+}

@@ -2,7 +2,7 @@
     display: grid;
     font-family: var(--fonte-principal);
     padding: 3em;
-    margin: auto;
+    margin: 3em;
     text-align: center;
 }
 
