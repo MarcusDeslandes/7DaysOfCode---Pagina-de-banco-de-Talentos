@@ -1,0 +1,42 @@
+.opiniao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5em;
+    margin: 8em 10em;
+    font-family: var(--fonte-principal);
+    background-color: var(--rosa);
+    border-radius: 1em;
+}
+
+.opiniao__subtitulo {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    line-height: 20px;
+    padding: 1em;
+}
+
+.opiniao__texto {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto);
+    line-height: 44px;
+    text-align: center;
+    padding: 1em;
+}
+
+.opiniao__nome {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    padding: 0.5em;
+}
+
+.opiniao__cargo {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza-medio);
+    line-height: 14px;
+    padding: 0.5em;
+}

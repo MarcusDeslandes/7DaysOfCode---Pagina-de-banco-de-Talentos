@@ -1,3 +1,7 @@
+.vagas {
+    padding: 0 0 3em 0;
+}
+
 .vagas-descricao {
     font-family: var(--fonte-principal);
     font-size: 20px;
@@ -8,7 +12,7 @@
 }
 
 .vaga {
-    margin: 1em 20em 1em 35em;
+    margin: 1em 28em 1em 33em;
     border: 1px solid var(--cinza-borda);
     border-radius: 1em;
     padding: 1.5em 1.5em 0 1.5em;
@@ -20,6 +24,7 @@
     font-size: 18px;
     font-weight: 500;
     color: var(--preto);
+    padding: 1em;
 }
 
 .informacoes {
@@ -28,6 +33,4 @@
     font-weight: 500;
     color: var(--cinza-medio);
     line-height: 6rem;
-    gap: 20px;
 }
-

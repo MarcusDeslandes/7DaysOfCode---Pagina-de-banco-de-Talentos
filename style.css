@@ -3,6 +3,8 @@
 @import url("styles/metricas.css");
 @import url("styles/banner.css");
 @import url("styles/vagas.css");
+@import url("styles/opiniao.css");
+@import url("styles/footer.css");
 
 :root {
     --cinza-escuro: #3A404E;
@@ -15,6 +17,7 @@
     --fonte-principal: "Inter";
     --rosa: #8E24240D;
     --cinza-borda: #EAECF0;
+    --fundo-rodape: #F9FAFB;
 }
 
 * {
