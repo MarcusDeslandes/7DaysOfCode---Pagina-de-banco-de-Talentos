@@ -5,7 +5,7 @@
     align-items: center;
     text-align: center;
     margin: 8em;
-    padding: 3em;
+    padding: 1em 3em;
 }
 
 .banner-container__subtitulo {
@@ -32,5 +32,5 @@
 }
 
 .imagem-banner {
-    padding: 4em;
+    padding: 3em;
 }
